@@ -38,7 +38,7 @@ Searching will filter the table at the bottom of the screen.
 If you need to add a new tenant, you can do so by clicking the button labeled
 **Create New Tenant**.
 
-> ![IMPORTANT] Before you add a new tenant, make sure they are not already in
+> [!IMPORTANT] Before you add a new tenant, make sure they are not already in
 > the system. This helps to prevent duplicates. Search for the tenant using
 > their name, phone number, and email address. When you are sure that they are
 > not already in the system, you can add a new one.

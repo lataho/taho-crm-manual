@@ -1,5 +1,5 @@
 ---
-title: Documentation
+title: Guide
 next: /getting-started
 toc: true
 ---
