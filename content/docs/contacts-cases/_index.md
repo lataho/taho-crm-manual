@@ -11,5 +11,5 @@ sidebar:
 
 {{< cards cols="1">}}
 {{< card link="tenants" title="Tenants and Households" icon="user" >}}
-{{< card link="cases" title="Cases" icon="folder-open" >}}
+{{< card link="create-case" title="Creating a case" icon="folder-open" >}}
 {{< /cards >}}

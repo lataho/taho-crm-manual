@@ -1,5 +1,5 @@
 ---
-title: Setting Up Your Dashboard
+title: Setting up your dashboard
 type: docs
 weight: 2
 prev: accessing-crm

@@ -10,4 +10,8 @@ This is the user guide for the TAHO CRM, which is located at <https://crm.lataho
 
 If you're brand new to TAHO, you can find instructions on first steps in [Getting Started](docs/getting-started).
 
-To browse the user manual, visit [Docs](docs/)
+To browse the user manual, visit the [Guide](docs/)
+
+{{< cards cols="2">}}
+{{< card link="docs" title="Guide" icon="book-open" >}}
+{{< /cards >}}

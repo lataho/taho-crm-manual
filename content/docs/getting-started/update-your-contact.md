@@ -1,5 +1,5 @@
 ---
-title: Updating Your Contact Info
+title: Updating your contact info
 type: docs
 weight: 3
 prev: dashboard-setup

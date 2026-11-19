@@ -1,9 +1,9 @@
 ---
-title: Tenants and Households
+title: Tenants and households
 type: docs
 weight: 1
 prev: /docs/contacts-cases
-next: docs/folder/
+next: create-case
 ---
 
 ## Viewing Tenants
@@ -14,7 +14,8 @@ Tenants** in the CiviCRM menu bar.
 
 ![contacts-tenants.jpg](/docs/img/contacts-tenants.jpg)
 
-> [!TIP] What is a contact? All of the people and organizations that interact
+> [!TIP] What is a contact?
+> All of the people and organizations that interact
 > with the TAHO program are registered as **contacts** in the CRM. This
 > includes tenants, TAHO and LAHD staff, landlords and property managers, and
 > even organizations like CBOs. Even the building a tenant lives in is
