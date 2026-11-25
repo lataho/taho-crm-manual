@@ -10,7 +10,7 @@ next: cases
 
 When you first log into CiviCRM, your home screen will look like this:
 
-![civicrm-home-default](/docs/img/civicrm-home-default.jpg)
+![civicrm-home-default](/img/civicrm-home-default.jpg)
 
 This page is called the dashboard. It includes widgets called dashlets that can
 display information that is useful to have at a glance. To start setting up
@@ -19,15 +19,15 @@ are specific to TAHO.
 
 Start by removing the existing dashlets by clicking the X in the upper-right corner of the dashlet
 
-![dashlet-remove](/docs/img/dashlet-remove.jpg)
+![dashlet-remove](/img/dashlet-remove.jpg)
 
 Click the button that says **# Available Dashlets**. It will expand to show the dashlets you can add.
 
-![civicrm-home-avail-dashlets](/docs/img/civicrm-home-avail-dashlets.jpg)
+![civicrm-home-avail-dashlets](/img/civicrm-home-avail-dashlets.jpg)
 
 Click and drag dashlets from the Available Dashlets area into the area below.
 
-![dashlet-add](/docs/img/dashlet-add.jpg)
+![dashlet-add](/img/dashlet-add.jpg)
 
 The dashlets that we recommend adding are:
 
@@ -45,4 +45,4 @@ dashlet.
 
 When you are done, the completed dashboard will look something like this:
 
-![civicrm-home-complete](/docs/img/civicrm-home-complete.jpg)
+![civicrm-home-complete](/img/civicrm-home-complete.jpg)

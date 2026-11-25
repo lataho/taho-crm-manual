@@ -46,7 +46,7 @@ the [guide](tenants).
 You can create a case for any tenant household by clicking the **Create case
 directly** button on the tenant's row in the table.
 
-![tenant-row](/docs/img/tenant-row.jpg)
+![tenant-row](/img/tenant-row.jpg)
 
 This will create a new case for the household and begin a **Tenant Intake**
 activity. The Tenant Intake, also known as the "warm call", is our initial
@@ -63,7 +63,7 @@ are experiencing.
 When you create a new case, the first step is always to fill out the intake.
 The screen looks like this:
 
-![case-intake](/docs/img/case-intake.jpg)
+![case-intake](/img/case-intake.jpg)
 
 The intake process is designed to accomplish multiple things:
 
@@ -101,11 +101,11 @@ is not already in the system, you can add it. Over time, as we add more and
 more buildings, more will come up in the search, and you won't have to do as
 much data entry.
 
-![case-add-building](/docs/img/case-add-building.jpg)
+![case-add-building](/img/case-add-building.jpg)
 
 If you need to create a new building, you can do so.
 
-![case-create-building](/docs/img/case-create-building.jpg)
+![case-create-building](/img/case-create-building.jpg)
 
 Give the building a name. The best practice is to use the street address as the
 name. If the building has an additional well-known name, include it in
@@ -115,7 +115,7 @@ Add the building's address. Then, go to [ZIMAS](https://zimas.lacity.org) and
 look up the building to get the APN, Council District, RSO (Rent Stabilization
 Ordinance) status, and JCO (Just Cause Ordinace) status.
 
-![zimas](/docs/img/zimas.jpg)
+![zimas](/img/zimas.jpg)
 
 Here's where to find each piece of information on ZIMAS:
 
@@ -154,7 +154,7 @@ their harassment situation and providing documentation like photos, videos,
 personal testimonials, information about landlord behavior, it's a good idea to
 log an evidence activity.
 
-![intake-evidence](/docs/img/intake-evidence.jpg)
+![intake-evidence](/img/intake-evidence.jpg)
 
 Evidence-gathering support is one of our deliverables to LAHD, so it is
 important to add a Log Evidence activity each time you support a tenant with
@@ -162,7 +162,7 @@ evidence-gathering. In this scenario, we are logging evidence gathering during
 the tenant intake, but you will also be able to log evidence as a separate
 activity after the intake is complete.
 
-For more information about evidence activities, please read the [Evidence guide](/docs/activities/evidence)
+For more information about evidence activities, please read the [Evidence guide](/activities/evidence)
 
 ## Intake
 

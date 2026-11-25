@@ -12,7 +12,7 @@ Reach the TAHO CRM at <https://crm.lataho.org/civicrm>
 
 If you're not logged in, you will see a screen that looks like this:
 
-![login-screen](/docs/img/login-screen.jpg)
+![login-screen](/img/login-screen.jpg)
 
 If you're new to TAHO, make sure the data manager (Philip:
 <philip@inter-modal.com>) knows. He will create a new user account for you.
@@ -28,7 +28,7 @@ to log in.
 
 When you first log in, you will see a page that looks like this:
 
-![drupal-homescreen](/docs/img/drupal-homescreen.jpg)
+![drupal-homescreen](/img/drupal-homescreen.jpg)
 
 To click the button that says **CiviCRM** in the bar at the top of the screen.
 

@@ -1,17 +1,24 @@
 ---
 title: TAHO CRM Manual
-next: /docs
-toc: true
+type: docs
+toc: false
+next: /getting-started
 ---
 
-## About this site
+## Welcome to the TAHO CRM User Guide
 
-This is the user guide for the TAHO CRM, which is located at <https://crm.lataho.org/civicrm>
+This is a work-in-progress guide to CiviCRM for TAHO staff. If you're new to TAHO, check out [Getting Started](getting-started).
+<!-- markdownlint-disable MD034 -->
 
-If you're brand new to TAHO, you can find instructions on first steps in [Getting Started](docs/getting-started).
+<!-- {{< cards cols="1">}} -->
+<!-- {{< card link="getting-started" title="Getting Started" subtitle="Logging into and setting up the CRM for the first time" icon="calendar" >}} -->
+<!-- {{< card link="contacts-cases" title="Contacts and Cases" subtitle="Creating and managing tenants and their TAHO Cases in the CRM" icon="folder-open" >}} -->
+<!-- {{< card link="activities" title="Activities" subtitle="Guides to each type of activity that can be logged in the CRM" icon="briefcase" >}} -->
+<!-- {{< /cards >}} -->
 
-To browse the user manual, visit the [Guide](docs/)
+<!-- --- -->
 
-{{< cards cols="2">}}
-{{< card link="docs" title="Guide" icon="book-open" >}}
+{{< cards cols="1">}}
+{{< card link="https://crm.lataho.org/civicrm" title="Go to CiviCRM" icon="globe-alt" >}}
 {{< /cards >}}
+<!-- markdownlint-enable MD034 -->

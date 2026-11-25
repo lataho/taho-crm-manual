@@ -47,7 +47,7 @@ Add the building's address. Then, go to [ZIMAS](https://zimas.lacity.org) and
 look up the building to get the APN, Council District, RSO (Rent Stabilization
 Ordinance) status, and JCO (Just Cause Ordinace) status.
 
-![zimas](/docs/img/zimas.jpg)
+![zimas](/img/zimas.jpg)
 
 Here's where to find each piece of information on ZIMAS:
 

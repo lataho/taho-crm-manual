@@ -2,17 +2,17 @@
 title: Tenants and households
 type: docs
 weight: 1
-prev: /docs/contacts-cases
+prev: /contacts-cases
 next: create-case
 ---
 
 ## Viewing Tenants
 
-The most important contact in the TAHO CRM is the tenant. When you want to find
-or add a tenant, you will go to the Tenants page. To do so, go to **Contacts >
-Tenants** in the CiviCRM menu bar.
+The most important "contact in the TAHO CRM is the tenant. When
+you want to find or add a tenant, you will go to the Tenants page. To do so, go
+to [**Contacts > Tenants**](https://crm.lataho.org/civicrm/add/tenant) in the CiviCRM menu bar.
 
-![contacts-tenants.jpg](/docs/img/contacts-tenants.jpg)
+![contacts-tenants.jpg](/img/contacts-tenants.jpg)
 
 > [!TIP] What is a contact?
 > All of the people and organizations that interact
@@ -26,7 +26,7 @@ Tenants** in the CiviCRM menu bar.
 
 The Tenants page looks like this:
 
-![tenants-screen.jpg](/docs/img/contacts-tenants.jpg)
+![tenants-screen.jpg](/img/contacts-tenants.jpg)
 
 At the top, there is a search box that allows you to search for a tenant. You
 can search using the tenant's **name**, **phone number**, or **email address**.
@@ -45,7 +45,7 @@ If you need to add a new tenant, you can do so by clicking the button labeled
 
 Clicking **Create New Tenant** will pop up a window like this:
 
-![quick-add-tenant](/docs/img/quick-add-tenant.jpg)
+![quick-add-tenant](/img/quick-add-tenant.jpg)
 
 Fill out all the information you have about this tenant. Their name and phone
 number are the most important information. Any other information you have is
@@ -56,7 +56,7 @@ When you have finished filling out the form, click the button labeled
 **Submit**. This will return you to the Tenants page. You will see the tenant
 you just added at the top of the table.
 
-![tenants-page-demo](/docs/img/tenants-page-demo.jpg)
+![tenants-page-demo](/img/tenants-page-demo.jpg)
 
 ### Tenants table
 
@@ -65,7 +65,7 @@ number**, the name of their **household**, the number of open TAHO **cases**
 the tenant has, and buttons/menus that allow you to perform specific actions
 for the tenant.
 
-![tenants-page-table](/docs/img/tenants-page-table.jpg)
+![tenants-page-table](/img/tenants-page-table.jpg)
 
 ## Households
 
@@ -83,12 +83,12 @@ landlord's harassment.
 If a tenant has no yet been added to a household, you will see the warning "No
 household" and a button labeled "Add Household"
 
-![tenant-no-hh](/docs/img/tenant-no-hh.jpg)
+![tenant-no-hh](/img/tenant-no-hh.jpg)
 
 To add the tenant to a household, click "Add Household" button, which will pop
 up a window that looks like this:
 
-![add-hh](/docs/img/add-hh.jpg)
+![add-hh](/img/add-hh.jpg)
 
 This page will create a **relationship** between the tenant and the household
 that they are a member of. It has two menus: the first is for the tenant, and
@@ -107,14 +107,14 @@ When you find the household you are looking for, select it, then hit the
 After you click **Submit**, you will see that the tenant's row now shows the
 household, and there are two new buttons in the Actions column.
 
-![tenant-list-hh-added](/docs/img/tenant-list-hh-added.jpg)
+![tenant-list-hh-added](/img/tenant-list-hh-added.jpg)
 
 ### Creating a new household
 
 If you know that this tenant does not yet have a TAHO household, you
 can create a new one by clicking **Quick Add Household**.
 
-![hh-search](/docs/img/hh-search.jpg)
+![hh-search](/img/hh-search.jpg)
 
 Another page will pop up that allows you to enter the information for the
 household. Usually, you will want to inherit the address, phone number, and
@@ -123,14 +123,14 @@ household. By default, it selects the tenant that you are adding to the
 household, but you can use the menu labeled **Tenant** to pick a different
 tenant.
 
-![add-hh-form](/docs/img/add-hh-form.jpg)
+![add-hh-form](/img/add-hh-form.jpg)
 
 Checking the boxes for **Address**, **Email**, and **Phone** will copy those
 values from the tenant to the household. This prevents you from having to
 re-type the information into the household after having already entered it for
 the tenant.
 
-![hh-num-children](/docs/img/hh-num-children.jpg)
+![hh-num-children](/img/hh-num-children.jpg)
 
 At the bottom of the form, there is a field for the number of children in the
 household. If you know this information, please enter it. It has been requested

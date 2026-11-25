@@ -3,7 +3,7 @@ title: Evidence
 type: docs
 weight: 3
 prev: tenants
-next: docs/folder/
+next: /
 ---
 
 The **Log Evidence** activity allows you to record each time you support a
@@ -18,7 +18,7 @@ tenant write a demand letter and file a complaint with LAHD.
 
 From the tenant's case page, click the **Log Activity** button, then, under **General activities**, click **Log Evidence**.
 
-![log-evidence](/docs/img/log-evidence.jpg)
+![log-evidence](/img/log-evidence.jpg)
 
 ### When to log evidence
 
